@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Viktor Meglenovski</h1>
-<h3 align="center">4th year student at Faculty of Computer Science and Engineering, Skopje</h3>
+<h1>Hi 👋, I'm Viktor Meglenovski</h1>
+<h3>4th year student at Faculty of Computer Science and Engineering, Skopje</h3>
 
 - 📫 How to reach me **viktor.meglenovski@gmail.com**
 
