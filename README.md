@@ -25,7 +25,7 @@
 <h3>Application testing (QA)</h3>
 • <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a></br>
 
-<h4>Android application development</h3>
+<h3>Android application development</h3>
 • <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on</a></br>
 
 <h3 align="left">Connect with me:</h3>
