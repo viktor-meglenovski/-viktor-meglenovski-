@@ -17,15 +17,15 @@
 • <a href="https://github.com/viktor-meglenovski/3D-Art-Portfolio">3D Art Portfolio</a></br>
 • <a href="https://github.com/viktor-meglenovski/3d_journal">3D Journal</a></br>
 
-<h3>Data preprocessing and Datascience</h3>
+<h3>Data Preprocessing and Data Science</h3>
 • <a href="https://github.com/viktor-meglenovski/veb-bazirani-sistemi-proekt">Анализа на криминалистички податоци од Македонија</a></br>
 • <a href="https://github.com/viktor-meglenovski/mimic3-preprocessing">Preprocessing data from the MIMIC-III database (CIIT 2023)</a></br>
 • <a href="https://github.com/viktor-meglenovski/datascience-proekt">World Bank Youth Unemployment Rates - Data analysis and model training</a></br>
 
-<h3>Application testing (QA)</h3>
+<h3>Application Testing (QA)</h3>
 • <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a></br>
 
-<h3>Android application development</h3>
+<h3>Android Application Development</h3>
 • <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on</a></br>
 
 <h3 align="left">Connect with me:</h3>
