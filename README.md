@@ -5,28 +5,28 @@
 
 <h2>Projects</h2>
 <h3>Java Spring Boot</h3>
-- <a href="https://github.com/viktor-meglenovski/dnick-hifi-prototype">ПрваПомош++</a>
-- <a href="https://github.com/viktor-meglenovski/3D-Corner">3D Corner</a>
-- <a href="https://github.com/viktor-meglenovski/emt-proekt-backend">3D Manager-Backend</a>
+- <a href="https://github.com/viktor-meglenovski/dnick-hifi-prototype">ПрваПомош++</a></br>
+- <a href="https://github.com/viktor-meglenovski/3D-Corner">3D Corner</a></br>
+- <a href="https://github.com/viktor-meglenovski/emt-proekt-backend">3D Manager-Backend</a></br>
 
 <h3>React</h3>
-- <a href="https://github.com/viktor-meglenovski/emt-proekt-frontend">3D Manager-Frontend</a>
+- <a href="https://github.com/viktor-meglenovski/emt-proekt-frontend">3D Manager-Frontend</a></br>
 
 <h3>ASP.NET Core / ASP.NET MVC</h3>
-- <a href="https://github.com/viktor-meglenovski/My-Parking-Skopje">My Parking Skopje</a>
-- <a href="https://github.com/viktor-meglenovski/3D-Art-Portfolio">3D Art Portfolio</a>
-- <a href="https://github.com/viktor-meglenovski/3d_journal">3D Journal</a>
+- <a href="https://github.com/viktor-meglenovski/My-Parking-Skopje">My Parking Skopje</a></br>
+- <a href="https://github.com/viktor-meglenovski/3D-Art-Portfolio">3D Art Portfolio</a></br>
+- <a href="https://github.com/viktor-meglenovski/3d_journal">3D Journal</a></br>
 
 <h3>Data preprocessing and Datascience</h3>
-- <a href="https://github.com/viktor-meglenovski/veb-bazirani-sistemi-proekt">Анализа на криминалистички податоци од Македонија</a>
-- <a href="https://github.com/viktor-meglenovski/mimic3-preprocessing">Preprocessing data from the MIMIC-III database (CIIT 2023)</a>
-- <a href="https://github.com/viktor-meglenovski/datascience-proekt">World Bank Youth Unemployment Rates - Data analysis and model training</a>
+- <a href="https://github.com/viktor-meglenovski/veb-bazirani-sistemi-proekt">Анализа на криминалистички податоци од Македонија</a></br>
+- <a href="https://github.com/viktor-meglenovski/mimic3-preprocessing">Preprocessing data from the MIMIC-III database (CIIT 2023)</a></br>
+- <a href="https://github.com/viktor-meglenovski/datascience-proekt">World Bank Youth Unemployment Rates - Data analysis and model training</a></br>
 
 <h3>Application testing (QA)</h3>
-- <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a>
+- <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a></br>
 
 <h4>Android application development</h3>
-- <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on
+- <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on</a></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
