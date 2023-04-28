@@ -3,6 +3,31 @@
 
 - 📫 How to reach me **viktor.meglenovski@gmail.com**
 
+<h2>Projects</h2>
+<h3>Java Spring Boot</h3>
+- <a href="https://github.com/viktor-meglenovski/dnick-hifi-prototype">ПрваПомош++</a>
+- <a href="https://github.com/viktor-meglenovski/3D-Corner">3D Corner</a>
+- <a href="https://github.com/viktor-meglenovski/emt-proekt-backend">3D Manager-Backend</a>
+
+<h3>React</h3>
+- <a href="https://github.com/viktor-meglenovski/emt-proekt-frontend">3D Manager-Frontend</a>
+
+<h3>ASP.NET Core / ASP.NET MVC</h3>
+- <a href="https://github.com/viktor-meglenovski/My-Parking-Skopje">My Parking Skopje</a>
+- <a href="https://github.com/viktor-meglenovski/3D-Art-Portfolio">3D Art Portfolio</a>
+- <a href="https://github.com/viktor-meglenovski/3d_journal">3D Journal</a>
+
+<h3>Data preprocessing and Datascience</h3>
+- <a href="https://github.com/viktor-meglenovski/veb-bazirani-sistemi-proekt">Анализа на криминалистички податоци од Македонија</a>
+- <a href="https://github.com/viktor-meglenovski/mimic3-preprocessing">Preprocessing data from the MIMIC-III database (CIIT 2023)</a>
+- <a href="https://github.com/viktor-meglenovski/datascience-proekt">World Bank Youth Unemployment Rates - Data analysis and model training</a>
+
+<h3>Application testing (QA)</h3>
+- <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a>
+
+<h4>Android application development</h3>
+- <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viktor-meglenovski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-meglenovski" height="30" width="40" /></a>
