@@ -32,7 +32,7 @@
 • <a href="https://github.com/viktor-meglenovski/skit-proekt-191001">Selenium и мутациско тестирање на апликација</a></br>
 
 <h3>Android Application Development</h3>
-• <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a> - currently working on</a></br>
+• <a href="https://github.com/viktor-meglenovski/Parking-Spot-Skopje"> Parking Spot Skopje</a></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
