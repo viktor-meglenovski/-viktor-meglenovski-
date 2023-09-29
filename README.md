@@ -4,6 +4,12 @@
 - 📫 How to reach me **viktor.meglenovski@gmail.com**
 
 <h2>Projects</h2>
+
+<h3>Bachelor Degree Thesis - currently working on</h3>
+• <a href="https://github.com/viktor-meglenovski/diplomska_backend">Java Spring Boot Backend</a></br>
+• <a href="https://github.com/viktor-meglenovski/diplomska_frontend">React Frontend</a></br>
+• <a href="https://github.com/viktor-meglenovski/diplomska_ml">Fast API ML Backend</a></br>
+
 <h3>Java Spring Boot</h3>
 • <a href="https://github.com/viktor-meglenovski/dnick-hifi-prototype">ПрваПомош++</a></br>
 • <a href="https://github.com/viktor-meglenovski/3D-Corner">3D Corner</a></br>
