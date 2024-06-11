@@ -1,11 +1,12 @@
 <h1>Hi 👋, I'm Viktor Meglenovski</h1>
-<h3>4th year student at Faculty of Computer Science and Engineering, Skopje</h3>
+<h3>Bachelor of Software Engineering and Information Systems</h3> 
+<h4>Faculty of Computer Science and Engineering, Skopje</h4>
 
 - 📫 How to reach me **viktor.meglenovski@gmail.com**
 
 <h2>Projects</h2>
 
-<h3>Bachelor Degree Thesis - currently working on</h3>
+<h3>Bachelor Degree Thesis</h3>
 • <a href="https://github.com/viktor-meglenovski/diplomska_backend">Java Spring Boot Backend</a></br>
 • <a href="https://github.com/viktor-meglenovski/diplomska_frontend">React Frontend</a></br>
 • <a href="https://github.com/viktor-meglenovski/diplomska_ml">Fast API ML Backend</a></br>
